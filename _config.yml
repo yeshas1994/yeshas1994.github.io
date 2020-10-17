@@ -2,15 +2,13 @@ title: Yeshas Thadimari # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   MS in Robotics (University of Pennsylvania)
+  <br>
   BS in Mechanical Engineering (National University of Singapore)
   <br><br>
-  My name is Yeshas Thadimari and I am a final year master's student at the University of Pennsylvania. Most recently I 
-  have been forced to relocate back home to Singapore and am continuing my degree online. I am concurrently helping out
-  as a part-time robotics engineer at NUS & GovTech.
+  My name is Yeshas Thadimari and I am a final year master's student at the University of Pennsylvania. 
   <br><br>
-  I started my robotics journey during an exchange programme at UC Berkeley where I helped develop a rubik's cube solving robot. Following my
-  return to NUS, I pursued more projects in robotics. Eventually upon graduating in 2019, I was keen on furthering my knowledge in this fast growing 
-  field of robotics and was accepted into the Robotics Master's programme at University of Pennsylvania. 
+  I started my robotics journey during an exchange programme at UC Berkeley. Eventually upon graduating from NUS 
+  in 2019, I was keen on exploring  field of robotics and was accepted into the Robotics Master's programme at University of Pennsylvania. 
   <a href="https://www.linkedin.com/in/yeshas-thadimari/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
