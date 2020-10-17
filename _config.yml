@@ -1,11 +1,17 @@
-title: John Doe # your name (or website title) here
+title: Yeshas Thadimari # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  MS in Robotics (University of Pennsylvania)
+  BS in Mechanical Engineering (National University of Singapore)
   <br><br>
-  Second description 
+  My name is Yeshas Thadimari and I am a final year master's student at the University of Pennsylvania. Most recently I 
+  have been forced to relocate back home to Singapore and am continuing my degree online. I am concurrently helping out
+  as a part-time robotics engineer at NUS & GovTech.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  I started my robotics journey during an exchange programme at UC Berkeley where I helped develop a rubik's cube solving robot. Following my
+  return to NUS, I pursued more projects in robotics. Eventually upon graduating in 2019, I was keen on furthering my knowledge in this fast growing 
+  field of robotics and was accepted into the Robotics Master's programme at University of Pennsylvania. 
+  <a href="https://www.linkedin.com/in/yeshas-thadimari/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
