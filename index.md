@@ -3,8 +3,8 @@
 ## Work Experience & Projects
 
 #### GovTech (Summer 2020)
-##### [Semantic Segmentation & Point Painting for Spot Robot](/Govtech.md)
-##### [Model Predictive Controller (Work In Progress)](MPC.md)
+- [Semantic Segmentation & Point Painting for Spot Robot](/Govtech.md)
+- [Model Predictive Controller (Work In Progress)](MPC.md)
 <img src="govtech_image/Spot1.png" width="600"/>
 
 
