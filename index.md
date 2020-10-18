@@ -1,29 +1,40 @@
-## Portfolio and Projects
 
 
-[Semantic Segmentation & Point Painting for Spot Robot](/Govtech.md)
-[Model Predictive Controller (Work In Progress)](/pdf/sample_presentation.pdf)
-<img src="govtech_image/Screenshot from 2020-10-17 20-56-19.png" width="500"/>
+# Projects
+#### [Semantic Segmentation & Point Painting for Spot Robot](/Govtech.md)
+#### [Model Predictive Controller (Work In Progress)](/pdf/sample_presentation.pdf)
+<img src="govtech_image/Spot1.png" width="600"/>
 
 
-
----
-[Student Mentor](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+<!-- [Spot Robot Payload Design](/Payload.md)
+<img src="images/payload.png"/> -->
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+---
+[Autonomous Wheelchair](/Wheelchair.md)
 
 ---
 
+### Research & Projects
 
+- [Semantic Edge Detection]()
+- [Learning Interactions and Dynamics of Swarms](http://example.com/)
+- [Deep RL for Ms Pacman](http://example.com/)
+- [Planar Bipedal Robot Simulation](http://example.com/)
+- [People-Following RC Car](http://example.com/)
+
+###### Ongoing 
+- [YOLO]()
+- [SOLO]()
+- [Mask-RCNN]()
+- [VAE & GANs]()
+
+---
+## Courses & Skills
+- Programming: C++, CUDA, Python, Java, ROS, 
+- Libraries: PyTorch, Onnx, TensorRT, OpenCV, PCL
+- Courses: Deep Learning, Learning in Robotics, Model Predictive Control, Optimization and Control in Robotics
 
 
 ---
