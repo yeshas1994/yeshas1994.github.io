@@ -1,22 +1,24 @@
 
 
-# Projects
-#### [Semantic Segmentation & Point Painting for Spot Robot](/Govtech.md)
-#### [Model Predictive Controller (Work In Progress)](/pdf/sample_presentation.pdf)
+## Work Experience & Projects
+
+#### GovTech (Summer 2020)
+##### [Semantic Segmentation & Point Painting for Spot Robot](/Govtech.md)
+##### [Model Predictive Controller (Work In Progress)](MPC.md)
 <img src="govtech_image/Spot1.png" width="600"/>
 
 
 
 ---
+#### NUS (Spring + Summer 2019)
+##### [Autonomous Wheelchair](/Wheelchair.md)
 <!-- [Spot Robot Payload Design](/Payload.md)
 <img src="images/payload.png"/> -->
 
 ---
-[Autonomous Wheelchair](/Wheelchair.md)
 
----
 
-### Research & Projects
+## Research & Projects
 
 - [Semantic Edge Detection]()
 - [Learning Interactions and Dynamics of Swarms](http://example.com/)
