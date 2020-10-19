@@ -28,7 +28,7 @@
 - More to be added
 <!-- - [Planar Bipedal Robot Simulation](http://example.com/) -->
 
----
+<hr/>
 
 #### NUS
 - [People-Following RC Car](http://example.com/)
@@ -38,7 +38,7 @@
 - [Mask-RCNN]()
 - [VAE & GANs]() -->
 
----
+--- 
 ## Courses & Skills
 - Programming: C++, CUDA, Python, Java, ROS, 
 - Libraries: PyTorch, Onnx, TensorRT, OpenCV, PCL
