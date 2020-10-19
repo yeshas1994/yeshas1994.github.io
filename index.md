@@ -27,7 +27,9 @@
 - [Deep RL for Ms Pacman](Class_Projects/deep_rl.md)
 - More to be added
 <!-- - [Planar Bipedal Robot Simulation](http://example.com/) -->
+
 ---
+
 #### NUS
 - [People-Following RC Car](http://example.com/)
 
