@@ -6,14 +6,14 @@
 - [Semantic Segmentation & Point Painting for Spot Robot](/Govtech.md)
 <br>
 - [Model Predictive Controller (Work In Progress)](/MPC.md)
-<img src="govtech_image/Spot1.png" width="600"/>
+<img src="govtech_image/Spot1.png" width="500"/>
 
 
 
 ---
 #### NUS (Spring + Summer 2019)
 - [Autonomous Wheelchair](/Wheelchair.md)
-<img src="images/whill.png" width="600"/>
+<img src="images/whill.png" width="500"/>
 
 <!-- [Spot Robot Payload Design](/Payload.md)
 <img src="images/payload.png"/> -->
@@ -25,13 +25,14 @@
 #### UPenn
 - [Learning Interactions and Dynamics of Swarms](Class_Projects/cis522.md)
 - [Deep RL for Ms Pacman](Class_Projects/deep_rl.md)
+- [Planar Bipedal Robot Simulation](Class_Projects/traj_opt)
+- [Semantic Edge Detection](Class_Projects/edge_det.md)
 - More to be added
-<!-- - [Planar Bipedal Robot Simulation](http://example.com/) -->
 
 <hr/>
 
 #### NUS
-- [People-Following RC Car](http://example.com/)
+- [People-Following RC Car](Class_Projects/FYP.md)
 
 <!-- ###### Ongoing 
 - [SOLO]()
